@@ -213,12 +213,12 @@ User story 4: As a student, I want to run an individual check and ask the AI to 
 
 ## Clickable Prototype
 
-Public prototype link: https://www.figma.com/proto/m49LvJzO3ys8Qu3oYZOTyc/Untitled?node-id=1-2&t=tivDDNUHfqrbaIVC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1 
+[clickable prototype](https://www.figma.com/proto/m49LvJzO3ys8Qu3oYZOTyc/Untitled?node-id=1-2&t=tivDDNUHfqrbaIVC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[demo](https://theslidemachine.com/d/untitled-3e8e3159)
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+[exit ticket](https://docs.google.com/forms/d/e/1FAIpQLSfk02PirzhpMguipdhuNMCRgvm3lDwdfjFvdlO6vAoLpgGhpg/viewform?usp=dialog)
