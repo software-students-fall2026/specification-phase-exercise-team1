@@ -179,8 +179,17 @@ Instructor:
 - As an instructor, I want to the AI to provide additional resources to the student so that they can do further readings.
 
 ## Activity Diagrams
+User story 1: As an instructor, I want to initiate an AI Auto Checker so that I can examine slide accuracy and provide students with supporting resources.
+<img width="571" height="2722" alt="image" src="https://github.com/user-attachments/assets/0acafa16-1eff-4245-acbd-7d008d68a86d" />
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+User story 2: As an instructor, I want to edit and review citations so that students receive accurate, instructor-approved sources.
+<img width="571" height="1682" alt="image" src="https://github.com/user-attachments/assets/3fc900c1-1bd9-4088-9f84-fcc9d0a3f534" />
+
+User story 3: As a student, I want to select an inline citation and open its highlighted source so that I can verify the slide and recover missing context.
+<img width="531" height="1922" alt="image" src="https://github.com/user-attachments/assets/4c48ab25-3347-4d25-ac65-f110cc957dc2" />
+
+User story 4: As a student, I want to run an individual check and ask the AI to reexamine questionable results so that I can independently verify a statement.
+<img width="958" height="2082" alt="image" src="https://github.com/user-attachments/assets/3467e5a4-aee1-4208-aa58-c92776b614a0" />
 
 ## Wireframes
 <table>
